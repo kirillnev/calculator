@@ -7,6 +7,6 @@ if(a === 6){
 
 myHeading.onclick = function(){
     var myName = prompt('Please enter your name: ');
-    myHeading.textContent = 'Hello, ' + myName;
+    myHeading.textContent = 'Hello , ' + myName;
 
 }
